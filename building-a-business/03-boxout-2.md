@@ -18,12 +18,12 @@ Designed by the team that built Typecast, Continually is a tool that’s designe
 
 <img src="superbooked.png" width="650">
 
-Superbooked
+SuperBooked
 -----------
 
 https://superbooked.com
 
-Superbooked – the brainchild of noted designer Dan Mall – is a tool that’s designed to help you find work with a little help from your friends. Built on the idea that the best opportunities come from the people you know, SuperBooked connects you to opportunities through people you trust.
+Currently in beta, SuperBooked – the brainchild of noted designer Dan Mall – is designed to help you find work with a little help from your friends. Built on the idea that the best opportunities come from the people you know, SuperBooked connects you to opportunities through people you trust.
 
 
 
