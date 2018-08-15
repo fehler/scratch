@@ -23,7 +23,7 @@ SuperBooked
 
 https://superbooked.com
 
-Currently in beta, SuperBooked – the brainchild of noted designer Dan Mall – is designed to help you find work with a little help from your friends. Built on the idea that the best opportunities come from the people you know, SuperBooked connects you to opportunities through people you trust.
+Currently in beta, SuperBooked – the brainchild of noted designers Dan Mall and Philip Zaengle – is designed to help you find work with a little help from your friends. Built on the idea that the best opportunities come from the people you know, SuperBooked connects you to work through people you trust.
 
 
 

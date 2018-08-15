@@ -1,5 +1,5 @@
-Building a Business… Efficiently
-================================
+Building a Business
+===================
 
 Christopher Murphy explores the process of building a business, from a company of one to an agency of many, sharing some strategies that help you plan ahead for future growth.
 
@@ -86,52 +86,47 @@ Your relationship with your clients will – all being well – grow over time. 
 Build a Team
 ------------
 
-As your client base grows and your projects widen and deepen in scope you’ll need to give some thought to building a team.
+As your client base grows and the scope of your projects widens and deepens, you’ll need to give some thought to building a team. In the early days of your business, your team will probably be loose and informal to begin with, but – over time – it can become the foundation upon which to build an agency of many.
 
-/* I have a line from the scratch file that I deleted, insert it here, it opens this section.*/
+One of the benefits of being a ‘company of one’ is that your working relationships are flexible at the outset. Hiring other freelancers on an ad hoc basis as you grow your business allows you to explore other designers’ and developers’ strengths and weaknesses. It also allows you to pinpoint who has the skills that complement yours and, equally importantly, who is reliable.
 
-In this section I’m explaining that a team might be loose and informal to begin with, but – over time – it can become the foundation upon which to build a multi-employee studio.
+As you build your team, build with the future in mind. Ideally the ad hoc team you build in the early days will be your future co-founders or employees.
 
-Unicorns are, thankfully, a thing of the past… teams are where it’s at. As you build your team, build with the future in mind. Ideally the team you build will be your future co-founders or employees.
+We work in a competitive sector where skilled and talented freelancers are in high demand and can command generous salaries. As you start to build a list of potential partners and employees, bear in mind that the freelancers you hire will be vetting you as much as you are vetting them. Always be on your best behaviour!
 
-One of the benefits of being an ‘company of one’ is that your working relationships are fluid. Hiring other freelancers as you grow your business allows you to explore different people’s strengths and get to know who has the skills that complement yours and, equally importantly, 
-
-Over time, however, it’s worth making a note of freelancers you can rely on. Firstly, over time you’ll probably work with them more, but also… these might might be your first full-time employees or co-founders.
-
-You don’t need to build a business, of course, you might want to remain as a lone wolf, that’s fine, but you will very likely have to work with others…
+<!-- DONE: 208 -->
 
 
 
 T-Shaped for the win!
 ---------------------
 
-UX has expanded considerably over the last decade and now encompasses more areas of specialism than one person can realistically encompass. Finding the right people: researchers, designers (UX and UI), client services, and all the other areas of specialism is the first step in building a business.
+Our industry has expanded considerably over the last decade and now encompasses more areas of specialism than one person can realistically encompass. Finding the right people – researchers, designers, developers, and all the other areas of specialism – is the first step in building a business.
 
-The reality is that you’ll encompass a great deal of these areas on your own when you start out, so focus on learning as much as possible, but it’s a good idea to start identifying individuals that would fit the various roles you’ll need…
+The reality is that you’ll have to wear a lot of hats when you’re starting out, so focus on learning as much as possible. The more you can develop a rounded vision of all the roles a project requires, the better. This early experience traversing disciplines will enable you to manage others more effectively.
 
-It can be difficult to justify spending on learning when your business is a business of on (or two), but don’t take shortcuts. The ROI in education is tangible. Go to conferences is a great way to learn and, just as importantly, grow your network.
+When considering potential team members, look for ‘T-Shaped’ designers. Tim Brown, the CEO of global design company IDEO, defines T-Shaped people as having two kinds of characteristics: the vertical stroke of the ‘T’ represents their depth of skill in a field; whilst the horizontal stroke of the ‘T’ represents their ability to collaborate across disciplines.
 
-Everyone should be T-shaped, insert definition here. Ensure the team:
+When building a team try to ensure that the candidates you consider possess these characteristics. Focus on individuals who have different, but overlapping areas of specialism, and who share a common design vocabulary, and you’ll build a stronger, more effective team.
 
-1. Focuses on different, but overlapping areas; and
-2. Speaks a shared language.
-
-However, it’s a good idea for the team to have complementary areas of specialism.
+<!-- DONE: 196 -->
 
 
 
 Always Learning
 ---------------
 
-/* This is about the importance of always learning. There should never be dead time, if there is, re-purpose it and put it towards good use. Identify an un-and-coming skillset and put your mind to work on it. Then, share what you learned. */
+As you build your business it’s important to keep an eye on the future. We work in an industry that is evolving at an alarming rate. New tools and techniques are emerging at a dizzying rate. As such, it’s important to identify inquisitive individuals that are always eager to learn.
 
-This is really important and might be nice to include in the screenshots… This might also be about Codepen, etc., like the Periodic Table screenshot. What’s nice about that is that it’s both side project and sharing, win.
+All studios have down-time, even the largest. Down time certainly shouldn’t be dead time, however. Instead, re-purpose it and put it to good use for learning and skills acquisition.
 
-This is the kind of work that gets you noticed, it can lead to new partnerships with other studios… it also helps to establish a reputation as an individual or a team that’s at the forefront of thinking or at the top of your game… 
+Identify an up-and-coming skillset, something you don’t know, and put your mind to work on it. It might be conversational interfaces, connected products or something else entirely, the important thing is you’re future-proofing your studio.
 
-LT…? The company is focused on staff development, regularly attending conferences and running ‘lunch and learn’ sessions monthly to widen and deepen the team’s knowledge. They share.
+Once you’ve learned something new, set aside some time and run a ‘lunch and learn’ session. These sessions, focused on sharing knowledge, are an opportunity to build team morale and strengthen your team’s knowledge.
 
-Codepen, etc..
+Even better, share your learning beyond the studio. Build a project and share it on Codepen (https://codepen.io), helping others in the process. This is the kind of work that gets you noticed, it can lead to new partnerships with other studios or help you establish a reputation as an individual or a team that’s at the forefront of their thinking.
+
+<!-- 214 -->
 
 
 
@@ -142,27 +137,21 @@ With a team in place, it helps to put some thought into developing a standardise
 
 Just like we consider the ‘onboarding experience’ for a website or an application, so too, we can consider the onboarding experience for our clients, improving our workflows and the clients’ experience.
 
-Think of this as a ‘design system’. Just as a design system formalises the components of a specific project’s design, this studio-level approach formalises the repeatable processes of a typical studio project so that it can be undertaken more efficiently.
+Think of this as a ‘design system’ for your business and its future growth. By formalising your processes, you can ease new team members into your working methods as you grow, and develop a flexible ‘mix and match’ offering, able to be tailored to different client’s needs.
 
-The important point is to find repeatable processes – tasks you undertake for all of your clients – and modularise them. By doing so  your offering can be more aggressively priced for SMEs, whilst allowing for a flexible ‘mix and match’ offering able to be tailored to different enterprise’s needs.
+In a single feature it’s difficult to cover this process in depth, so – in the spirit of sharing best practice – I’ve built a GitHub repository that offers a deeper dive into the process. I’m a firm believer in sharing best practice, so I’m more than happy to share my process, feel free to fork the repo and tailor it to suit your own, specific requirements.
 
-In a single feature it’s hard to find the space to cover this process in depth, so – in the spirit of sharing best practice – I’ve built a GitHub repository that offers a deeper dive into the process. I’m a firm believer in sharing best practice, so I’m more than happy to share this.
-
-https://github.com/fehler/client-onboarding/blob/master/Client%20Onboarding%20Process.md
-
-A little more on the system (take it from the opening paragraph of the repo).
-
-/* Link to repo; screenshot. */
+<!-- 189 -->
 
 
 
 Closing Thoughts
 ----------------
 
-Above all, my advice would be to plan for the future. Establish a vision at the outset and you’ll find yourself with a clear roadmap to follow.
+As you take the first steps on your business journey, it’s important to set aside some time to plan ahead for the future. You might be a solopreneur when you start out, but if you focus on the fundamentals and your business grows, having a plan in place will help you manage that growth.
 
-You might be a company of one at this point in time, but taking care of your clients will lead to further opportunities down the road. Nurture relationships, not just with clients, but with your peers…
+Establish a vision at the outset and you’ll find yourself with a clear roadmap to follow. This can make all the difference between success and failure.
 
-Even if your business is a business of one, it will still – very likely – involve working with others. Unicorns are, thankfully, a thing of the past… teams are where it’s at. As you build your team, build with the future in mind…
+You might be a company of one at this point in time, but taking care of your clients will lead to further opportunities down the road. Nurture relationships, not just with clients, but with your peers. Business – at the end of the day – is about people.
 
-Relationships that start out as casual, can build over time, into something substantial and strong. Many of the best known studios started as solo projects or partnerships… who knows, your studio might be the next?
+Many of the best known studios started as solo projects or partnerships… who knows, your studio might be the next superstudio? Good luck on your adventure!
