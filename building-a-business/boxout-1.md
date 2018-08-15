@@ -3,9 +3,7 @@ Case Study: Little Thunder
 
 https://littlethunder.co
 
-
 <img src="little-thunder.png" width="650">
-
 
 A boutique experience design business based in Belfast, Little Thunder was founded in 2013 by designers Gaby Muldoon and Tim Potter. Over its half a decade history, the company has grown from a two man team to a digital agency that now has a rapidly expanding team of designers,  developers and animators.
 
