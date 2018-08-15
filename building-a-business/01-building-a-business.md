@@ -7,7 +7,7 @@ Christopher Murphy explores the process of building a business, from a company o
 
 <!-- Body copy (1,900 words): This feature needs to include plenty of practical advice, and can include code snippets. -->
 
-<div style=”width: auto; height: auto; background-color: yellow;”>
+<div style="width: auto; height: auto; background-color: yellow;">
 
 #### Structure
 
@@ -51,50 +51,54 @@ It’s all about the clients…
 It’s impossible to build a business without clients so it’s important 
 to establish strategies upfront to develop a solid client base.
 
-Word of mouth is often the best approach to finding new clients and –  if all has gone according to plan – you should have at least a handful of initial clients who can act as your champions. Think of these as your trailblazers, they’re the ones that you can gently encourage to share your story.
+Word of mouth is often the best approach to finding new clients and –  if all has gone according to plan – you should have at least a handful of initial clients who can act as your first wave of champions. Think of these as your trailblazers, they’re the ones that you can gently encourage to share your story, passing on your details – and an all-important recommendation – to their peer network.
 
-Happy customers often open the door to other (hopefully happy) customers. With that in mind, it’s important to ensure that every client’s experience is a delightful one.
+Happy customers often open the door to other (hopefully equally happy) customers. With that in mind, it’s important to ensure that every client’s experience is a delightful one. Underpromise, over deliver and ensure you’re communications are always clear, even if you’re running a little behind on a deliverable, honesty’s the best policy.
 
-Testimonials on your website – right up front on your primary landing pages – can make all the difference. Testimonials increase trust, showcase the scope of your client base and – above all – demonstrate client appreciation, they’re useful for putting new clients’ minds at rest, showing that you have an established track record.
+Testimonials on your website – right up front on your primary landing pages – can make all the difference. Testimonials increase trust, showcase the scope of your client base and – above all – demonstrate client appreciation, they’re useful for putting new clients’ minds at rest, showing that you have an established track record. It’s equally helpful to list your clients right up front, again, this builds believability.
 
-It’s equally helpful to list your clients right up front. <!-- Explain why if I’m short on words. -->
-
-<!-- 162 -->
+<!-- DONE: 207 -->
 
 
 
 Leads, leads, leads!
 --------------------
 
-In addition to word of mouth there are a multitude of tools you can put in place for generating leads via your studio’s website. Tools like Continually (http://continual.ly), Intercom (https://www.intercom.com) and JivoChat (https://www.jivochat.com) enable you to turn your website’s visitors into potential clients.
+In addition to word of mouth there are a multitude of tools you can put in place for generating leads via your studio’s website. Tools like Continually (http://continual.ly), Intercom (https://www.intercom.com) and JivoChat (https://www.jivochat.com) enable you to turn your website’s passing visitors into possible clients.
 
 By allowing you to start a conversation with your website’s visitors, client engagement tools enable you to connect with potential new customers and increase your online sales. Whilst word of mouth client recommendations are usually stronger leads, these tools are still a route to potential new leads.
 
 By allowing you to drag and drop content fragments to create conversational pitches, tools like Continually enable you to build intelligent digital sales assistants, available night and day.
 
-There’s been a huge growth in this category of tools thanks to the rise of big data, machine learning and conversational interfaces. Not only are client engagement tools useful to studios eager to grow, they’re also a useful addition to your offering for clients.
+There’s been a huge growth in this category of tools thanks to the rise of big data, machine learning and conversational interfaces. Not only are client engagement tools useful to studios eager to grow, they’re also a useful addition offering for clients.
 
 If you’re looking for an all-in-one chat platform, JivoChat offers design studios 30% in recurring commission for each client install plus free usage of their platform. This allows you to try the tool and earn money, too. Win, win.
 
-<!-- Mention beacon? https://beacon.by -->
-
-<!-- 206 -->
+<!-- DONE: 205 -->
 
 
 
 Develop Lead Magnets
 --------------------
 
-Explain what ‘lead magnets’ are and why they’re useful.
+In my article ‘Share’ (Issue #298) I explored the value of content strategy and content marketing. As I noted: “In today’s connected world it’s possible to share your thinking with a global audience who are just a click away. The web offers a wealth of content, but that doesn’t mean there isn’t room for another voice: yours.”
 
-This is about turning your thinking into easily downloadable content that you can share with potential clients, etc.. It’s about list-building and the benefits of lead magnets.
+One powerful content marketing approach is the creation of ‘lead magnets’, incentives designed to build audiences. A lead magnet is a term for a piece of content that attracts leads (hence the magnetic metaphor) and they’re usually digitally downloadable content: ebooks, checklists and other information-focused resources.
+
+Googling ‘lead magnet’ returns 53,800,000 results so there’s a great deal of noise you’ll have to cut through, but take a strategic approach and you can stand out from the crowd. 
+
+Focus on a specific niche – an area you can shine in – and build your content around that. In time, you’ll be rewarded with an audience that not only grows, but that values you and your studio’s perspective.
+
+Lead magnets don’t have to be time-consuming to build. Beacon (https://beacon.by), a startup based in Belfast, offers a web-based tool that enables you to create professional looking magnets in minutes.
+
+<!-- DONE: 207 -->
 
 
 
 Customer Lifetime Value
 -----------------------
 
-Acquiring new customers can be costly. A better approach to building your business is to focus on the customers you have and grow their value over time. Customer Lifetime Value (CLV)…
+Acquiring new customers – whether it's through client engagement tools or lead magnets – can be costly. A better approach to building your business is to focus on the customers you have and grow their value over time by maximising their Customer Lifetime Value (CLV).
 
 /* Explain what customer lifetime value is and why it matters. Stress the 80-20 rule. Mention Pareto. Reference my article in @netmag #XXX… perhaps a pull-quote from that. */
 
