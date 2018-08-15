@@ -5,33 +5,6 @@ Christopher Murphy explores the process of building a business, from a company o
 
 
 
-<!-- Body copy (1,900 words): This feature needs to include plenty of practical advice, and can include code snippets. -->
-
-<div style="width: auto; height: auto; background-color: yellow;">
-
-#### Structure
-
-1. It’s all about the clients…
-
-2. Leads, lead, leads!
-
-3. Lead Magnets
-
-4. Customer Lifetime Value
-
-5. Build a Team
-
-6. T-Shaped for the win!
-
-7. Always Learning
-
-8. Streamline Processes
-
-</div>
-
-
-
-
 Introduction
 ------------
 
@@ -85,9 +58,9 @@ In my article ‘Share’ (Issue #298) I explored the value of content strategy 
 
 One powerful content marketing approach is the creation of ‘lead magnets’, incentives designed to build audiences. A lead magnet is a term for a piece of content that attracts leads (hence the magnetic metaphor) and they’re usually digitally downloadable content: ebooks, checklists and other information-focused resources.
 
-Googling ‘lead magnet’ returns 53,800,000 results so there’s a great deal of noise you’ll have to cut through, but take a strategic approach and you can stand out from the crowd. 
+Googling ‘lead magnet’ returns 53,800,000 results so there’s a great deal of noise you’ll have to cut through, but take a strategic approach and you can still stand out from the crowd. 
 
-Focus on a specific niche – an area you can shine in – and build your content around that. In time, you’ll be rewarded with an audience that not only grows, but that values you and your studio’s perspective.
+Focus on a specific niche – an area your studio focuses on – and build your content around that. In time, you’ll be rewarded with an audience that not only grows, but that values you and your studio’s perspective.
 
 Lead magnets don’t have to be time-consuming to build. Beacon (https://beacon.by), a startup based in Belfast, offers a web-based tool that enables you to create professional looking magnets in minutes.
 
@@ -98,23 +71,22 @@ Lead magnets don’t have to be time-consuming to build. Beacon (https://beacon.
 Customer Lifetime Value
 -----------------------
 
-Acquiring new customers – whether it's through client engagement tools or lead magnets – can be costly. A better approach to building your business is to focus on the customers you have and grow their value over time by maximising their Customer Lifetime Value (CLV).
+Acquiring new customers – whether it’s through client engagement tools or lead magnets – can be costly. A better approach to building your business is to focus on the customers you have and grow their value over time by maximising their Customer Lifetime Value (CLV).
 
-/* Explain what customer lifetime value is and why it matters. Stress the 80-20 rule. Mention Pareto. Reference my article in @netmag #XXX… perhaps a pull-quote from that. */
+In my article ‘Loyalty’ (Issue #303) I explored this idea in depth, noting: “Customer Lifetime Value is the amount a customer spends with you over their lifetime and it’s where your true growth lies. Every sale you make is the start of a new relationship, focus on that and the growth will follow.”
 
-<!-- There’s a useful Shopify article on this… -->
-
-In addition to the monetary cost incurred to acquire new customers there’s also a time cost. Every new client you acquire needs to be ‘onboarded’ and introduced to your working process. A process that takes time (and therefore incurs a cost).
-
-Your existing customers will, of course, understand your processes. In this context, it makes sound business sense to widen and deepen your relationships with your existing client base, expanding each client’s potential profitability over the long term.
+Over time as you build your business, you’ll very likely discover that a core set of clients contribute the majority of the income. It’s absolutely critical that you take care of these core clients, they’re the beating heart of your business. Consider how you can serve them better and be proactive in assisting them and you’ll soon supercharge your business growth.
 
 Your relationship with your clients will – all being well – grow over time. Ideally, you’ll nurture your clients and, as their business grows, so too will your opportunities to satisfy their need for additional services, maximising their ‘Customer Lifetime Value’ (CLV).
 
+<!-- DONE: 197 -->
 
 
 
 Build a Team
 ------------
+
+As your client base grows and your projects widen and deepen in scope you’ll need to give some thought to building a team.
 
 /* I have a line from the scratch file that I deleted, insert it here, it opens this section.*/
 
