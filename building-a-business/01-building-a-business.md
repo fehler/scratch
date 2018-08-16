@@ -14,8 +14,6 @@ The good news is that the opportunities for smaller, boutique agencies are growi
 
 Even if you’re starting out solo or in a partnership, it helps to plan ahead, getting the foundations for growth in place so that you’re all set to go should the work come flooding in.
 
-<!-- DONE: 127 -->
-
 
 
 It’s all about the clients…
@@ -29,8 +27,6 @@ Word of mouth is often the best approach to finding new clients and –  if all 
 Happy customers often open the door to other (hopefully equally happy) customers. With that in mind, it’s important to ensure that every client’s experience is a delightful one. Underpromise, over deliver and ensure you’re communications are always clear, even if you’re running a little behind on a deliverable, honesty’s the best policy.
 
 Testimonials on your website – right up front on your primary landing pages – can make all the difference. Testimonials increase trust, showcase the scope of your client base and – above all – demonstrate client appreciation, they’re useful for putting new clients’ minds at rest, showing that you have an established track record. It’s equally helpful to list your clients right up front, again, this builds believability.
-
-<!-- DONE: 207 -->
 
 
 
@@ -47,8 +43,6 @@ There’s been a huge growth in this category of tools thanks to the rise of big
 
 If you’re looking for an all-in-one chat platform, JivoChat offers design studios 30% in recurring commission for each client install plus free usage of their platform. This allows you to try the tool and earn money, too. Win, win.
 
-<!-- DONE: 205 -->
-
 
 
 Develop Lead Magnets
@@ -64,8 +58,6 @@ Focus on a specific niche – an area your studio focuses on – and build your 
 
 Lead magnets don’t have to be time-consuming to build. Beacon (https://beacon.by), a startup based in Belfast, offers a web-based tool that enables you to create professional looking magnets in minutes.
 
-<!-- DONE: 207 -->
-
 
 
 Customer Lifetime Value
@@ -78,8 +70,6 @@ In my article ‘Loyalty’ (Issue #303) I explored this idea in depth, noting: 
 Over time as you build your business, you’ll very likely discover that a core set of clients contribute the majority of the income. It’s absolutely critical that you take care of these core clients, they’re the beating heart of your business. Consider how you can serve them better and be proactive in assisting them and you’ll soon supercharge your business growth.
 
 Your relationship with your clients will – all being well – grow over time. Ideally, you’ll nurture your clients and, as their business grows, so too will your opportunities to satisfy their need for additional services, maximising their ‘Customer Lifetime Value’ (CLV).
-
-<!-- DONE: 197 -->
 
 
 
@@ -94,8 +84,6 @@ As you build your team, build with the future in mind. Ideally the ad hoc team y
 
 We work in a competitive sector where skilled and talented freelancers are in high demand and can command generous salaries. As you start to build a list of potential partners and employees, bear in mind that the freelancers you hire will be vetting you as much as you are vetting them. Always be on your best behaviour!
 
-<!-- DONE: 208 -->
-
 
 
 T-Shaped for the win!
@@ -108,8 +96,6 @@ The reality is that you’ll have to wear a lot of hats when you’re starting o
 When considering potential team members, look for ‘T-Shaped’ designers. Tim Brown, the CEO of global design company IDEO, defines T-Shaped people as having two kinds of characteristics: the vertical stroke of the ‘T’ represents their depth of skill in a field; whilst the horizontal stroke of the ‘T’ represents their ability to collaborate across disciplines.
 
 When building a team try to ensure that the candidates you consider possess these characteristics. Focus on individuals who have different, but overlapping areas of specialism, and who share a common design vocabulary, and you’ll build a stronger, more effective team.
-
-<!-- DONE: 196 -->
 
 
 
@@ -126,8 +112,6 @@ Once you’ve learned something new, set aside some time and run a ‘lunch and 
 
 Even better, share your learning beyond the studio. Build a project and share it on Codepen (https://codepen.io), helping others in the process. This is the kind of work that gets you noticed, it can lead to new partnerships with other studios or help you establish a reputation as an individual or a team that’s at the forefront of their thinking.
 
-<!-- 214 -->
-
 
 
 Streamline Processes
@@ -139,9 +123,7 @@ Just like we consider the ‘onboarding experience’ for a website or an applic
 
 Think of this as a ‘design system’ for your business and its future growth. By formalising your processes, you can ease new team members into your working methods as you grow, and develop a flexible ‘mix and match’ offering, able to be tailored to different client’s needs.
 
-In a single feature it’s difficult to cover this process in depth, so – in the spirit of sharing best practice – I’ve built a GitHub repository that offers a deeper dive into the process. I’m a firm believer in sharing best practice, so I’m more than happy to share my process, feel free to fork the repo and tailor it to suit your own, specific requirements.
-
-<!-- 189 -->
+In a single feature it’s difficult to cover this process in depth, so – in the spirit of sharing best practice – I’ve built a GitHub repository that offers a deeper dive into the process (https://github.com/fehler/client-onboarding). I’m a firm believer in sharing best practice, so I’m more than happy to share my process, feel free to fork the repo and tailor it to suit your own, specific requirements as your studio grows.
 
 
 

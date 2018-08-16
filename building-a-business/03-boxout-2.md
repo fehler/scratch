@@ -12,7 +12,7 @@ Continually
 
 http://continual.ly
 
-Designed by the team that built Typecast, Continually is a tool that’s designed to get you more qualified leads. Using chatbots and machine learning, Continually allows you to respond to prospective leads automatically, out of hours and across time zones. It’s like your virtual, always-on PA and it’s well worth installing.
+Designed by the team that built Typecast, Continually is a tool that’s designed to get you more qualified leads. Using chatbots and machine learning, Continually allows you to respond to prospective leads automatically, out of hours and across time zones. It’s like your virtual, always-on PA. Nice!
 
 
 

@@ -16,3 +16,7 @@ Muldoon and Potter graduated from Belfast School of Art’s interaction design p
 Side projects are an important part of the company’s culture. Their children’s picturebook ‘Chalky and the New Sports Car’ successfully secured £13K on Kickstarter in 2014 and, more recently, they’ve spun out their lovingly illustrated learning materials ‘Little Steps’ (https://littlesteps.to) into a standalone, education-focused business in its own right.
 
 They believe that side projects are important for acquiring and honing new skills and they practice what they preach. Always learning they’re a team that’s making its mark on a world stage, thanks to their work developing design systems for companies like EA and others.
+
+---
+
+**I don’t think this image needs a caption, it’s pretty obvious from context.**

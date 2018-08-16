@@ -1,6 +1,8 @@
 Screenshots
 ===========
 
+THIS ONE NEEDS TO BE FIXED…
+
 <img src="hoponboard.png" width="650">
 
 Caption: Putting some thought into your design process enables you to work more efficiently. Hop Onboard! (http://hoponboard.io) offers an overview of the client onboarding process.
