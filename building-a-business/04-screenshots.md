@@ -1,11 +1,15 @@
 Screenshots
 ===========
 
-THIS ONE NEEDS TO BE FIXED…
+<img src="chatbots.png" width="650">
 
-<img src="hoponboard.png" width="650">
+Caption: There are a growing number of client engagement tools that use automation to help you build a 24/7 virtual chatbot sales team.
 
-Caption: Putting some thought into your design process enables you to work more efficiently. Hop Onboard! (http://hoponboard.io) offers an overview of the client onboarding process.
+
+
+<img src="jivochat.png" width="650">
+
+Turn your website visitors into paying customers with JivoChat (http://bit.ly/jivoreferral).
 
 
 
@@ -17,7 +21,13 @@ Caption: Building your client base with lead magnets is simple with Beacon (http
 
 <img src="codepen.png" width="650">
 
-Caption: Our industry moves so fast, it’s important to keep on learning. Sharing side projects – undertaken in studio down time – is a good way to keep your knowledge current and it’s good marketing, too.
+Caption: Our industry moves so fast, it’s important to keep learning. Side projects – undertaken in down time – are a great way to keep your knowledge current and they’re good marketing, too.
+
+
+
+<img src="hoponboard.png" width="650">
+
+Caption: Hop Onboard! (https://github.com/fehler/hop-onboard/) is an open source process that enables you to supercharge your client onboarding experience.
 
 
 
@@ -27,6 +37,3 @@ Caption: The team at No Divide (https://nodividestudio.com) share testimonials f
 
 
 
-<img src="chatbots.png" width="650">
-
-Caption: There are a growing number of client engagement tools that use automation to help you build a 24/7 virtual chatbot sales team.
