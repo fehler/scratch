@@ -32,7 +32,7 @@ This is a little more theoretical… it’s about the inability of the human bra
 https://www.psychologytoday.com/gb/blog/creativity-without-borders/201405/the-myth-multitasking
 
 
-<img src=”things.png” width=”650”>
+<img src="things.png" width="650">
 
 Caption: Caption about Things 3 here…
 
