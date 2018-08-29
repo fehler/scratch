@@ -10,38 +10,53 @@ Strap: Christopher Murphy tackles the tricky topic of task management in an incr
 
 <!-- 530 Words in last article. ~265 X 2 -->
 
-As knowledge workers toiling at the digital coalface, we regularly find ourselves managing multiple tasks at once. All too often these tasks add up and it can be hard to focus on getting things done.
+As knowledge workers toiling at the digital coalface, we regularly find ourselves managing multiple tasks at once. All too often these tasks add up, rendering it hard to focus and get things done.
 
-Establishing a task management, or ‘to-do’, system can make all the difference. Your system might be analogue or digital, but – above all – it's important to have a system.
+Establishing a task management, or ‘to-do’, system can make all the difference. Your system might be analogue or digital, regardless, it's important to have a system.
 
 One approach on the analogue side of the equation is the ‘Bullet Journal’ (www.bulletjournal.com), which bills itself as, “The analogue system for the digital age.” Ryder Carroll, creator of the Bullet Journal method, even has a book offering the tantalising prospect that you can: “Track the past, order the present and design the future.”
 
-The Bullet Journal method is tailored around a system of bullet points: points (‘.’) for to-dos; circles (‘o’) for events; dashes (‘–’) for notes and so on. It might sound complicated, but like any system it gets easier with practice. If you’ve been tracking to-dos via a notebook, it’s worth spending a little time exploring the methodology, which can enhance your existing approach.
+The Bullet Journal method is tailored around a system of bespoke bullets: points (‘.’) for to-dos; circles (‘o’) for events; dashes (‘–’) for notes; and so on. It might sound complicated, but like any system it gets easier with practice. If you’ve been tracking to-dos via a notebook, it’s worth spending a little time exploring the methodology, which can enhance your existing approach.
 
-On the digital side of the equation, tools like Things (www.culturedcode.com) offer a seamless, software-driven approach to the tricky task of to-dos. A personal task manager, for Apple's various devices, Things is designed to help you manage and achieve your goals.
+On the digital side of the equation, tools like Things (www.culturedcode.com) offer a seamless, software-driven approach to the tricky task of managing tasks. A personal task manager, for Apple's various devices, Things is designed to help you manage and achieve your goals, allowing you to gather all your tasks in one place.
 
-A beautifully designed suite of applications, which sync seamlessly via Things Cloud, Things enables you to manage tasks on-the-fly and keep a track of past tasks that you've completed. If you’re not allied to Apple’s operating systems, Things is still worth exploring for its delightful design. <!-- Apple Design Awards, 2017 -->
+A beautifully designed suite of applications, that won an Apple Design Award in 2017, Things makes tracking tasks enjoyable with its delightful interactions. Even if you’re not allied to Apple’s operating systems, Things is still worth exploring for its delightful user experience design.
 
 
-The Myth of Multitasking
-------------------------
+The Myth of Multi-Tasking
+-------------------------
 
-This is a little more theoretical… it’s about the inability of the human brain to focus on more than one thing at once. I need to make sure it doesn’t tread too heavily into the ground I covered on ‘Distractions’ (although this article’s subtly different).
+Mapping out your multiple tasks is, of course, only half of the equation; the other half of the equation is actually doing them, which is where single-tasking comes in.
 
-https://www.psychologytoday.com/gb/blog/creativity-without-borders/201405/the-myth-multitasking
+Doubtless everyone's heard of multi-tasking, the magical capability for doing multiple tasks in tandem. The trouble is, multi-tasking is a myth. (Or, more accurately, it's possible, it's just not productive.)
+
+A better approach is to focus on single tasks, sequentially.
+
+
+With your tasks mapped out it makes sense to tackle them one by one as recent neuroscience suggests….
+
+Explain the neuroscience here. This Quartz article is useful, link to it, perhaps:
+
+https://qz.com/976473/the-scientific-case-for-single-tasking-instead-of-multitasking/
+
+<!--
 
 In my article ‘Distractions’ (Issue #308) I explored the productivity gains you can benefit by focusing on a single task at hand. As I noted:
 
 > …getting into a ‘flow state’, where you become so absorbed in a task that time seems to evaporate, improves your productivity hugely. 
 
+-->
+
+Everyone has their own preferred task management method, and your approach, like mine, might bridge the analogue and digital divide. The important thing is to have a system, the key to productivity lies in establishing a method that maps everything. Do that and you'll find your productivity soar.
 
 
-Everyone has their own preferred method and your approach might bridge the analogue and digital divide.
+<!--
 
-but there’s something to be said for maintaining a paper-based archive of tasks completed, if only for the satisfaction of browsing that archive from time to time to see how productive you once were!
+…there’s something to be said for maintaining a paper-based archive of tasks completed, if only for the satisfaction of browsing that archive from time to time to see how productive you once were!
 
 The key to productivity lies in establishing a system that ensure you remain focused and on point.
 
+-->
 
 
 <img src="things.png" width="650">
