@@ -18,9 +18,9 @@ One approach on the analogue side of the equation is the ‘Bullet Journal’ (w
 
 The Bullet Journal method is tailored around a system of bespoke bullets: points (‘.’) for to-dos; circles (‘o’) for events; dashes (‘–’) for notes; and so on. It might sound complicated, but like any system it gets easier with practice. If you’ve been tracking to-dos via a notebook, it’s worth spending a little time exploring the methodology, which can enhance your existing approach.
 
-On the digital side of the equation, tools like Things (www.culturedcode.com) offer a seamless, software-driven approach to the tricky task of managing tasks. A personal task manager for Apple’s various devices, Things is designed to help you manage and achieve your goals, allowing you to organise all your tasks in one place.
+On the digital side of the equation, tools like Things (www.culturedcode.com) offer a seamless, software-driven approach to the tricky task of tackling tasks. A personal task manager for Apple’s various devices, Things is designed to help you manage and achieve your goals, allowing you to organise all of your tasks in one place.
 
-A beautifully designed suite of applications that won an Apple Design Award in 2017, Things makes tracking tasks enjoyable with its delightful interactions. Even if you’re not bought in to Apple’s operating systems, Things is still worth exploring for its elegant user experience design.
+A beautifully designed suite of applications that won an Apple Design Award in 2017, Things makes tracking tasks enjoyable thanks to its delightful interactions. Even if you’re not bought in to Apple’s operating systems, Things is still worth exploring for its elegant user experience design.
 
 
 The Myth of Multitasking
@@ -38,7 +38,7 @@ Kubu and Machado note that, “isolating out of the multitasking world,” bring
 
 What we think of as multitasking is, in fact, just the brain switching rapidly between tasks and doing so inefficiently. A far better approach is to sidestep multitasking and work your way through your task list a single task at a time.
 
-Put together the two halves of the equation – a task management system, be it analogue, digital (or both); and a singletasking mindset – and you’ll have a recipe for productivity success.
+Put together the two halves of the equation – a task management system, be it analogue, digital (or both); and a singletasking mindset – and you’ll have a recipe for productivity success. To-do list, ticked off!
 
 
 <img src="things.png" width="650">
