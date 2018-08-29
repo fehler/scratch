@@ -18,37 +18,27 @@ One approach on the analogue side of the equation is the ‘Bullet Journal’ (w
 
 The Bullet Journal method is tailored around a system of bespoke bullets: points (‘.’) for to-dos; circles (‘o’) for events; dashes (‘–’) for notes; and so on. It might sound complicated, but like any system it gets easier with practice. If you’ve been tracking to-dos via a notebook, it’s worth spending a little time exploring the methodology, which can enhance your existing approach.
 
-On the digital side of the equation, tools like Things (www.culturedcode.com) offer a seamless, software-driven approach to the tricky task of managing tasks. A personal task manager for Apple’s various devices, Things is designed to help you manage and achieve your goals, allowing you to gather all your tasks in one place.
+On the digital side of the equation, tools like Things (www.culturedcode.com) offer a seamless, software-driven approach to the tricky task of managing tasks. A personal task manager for Apple’s various devices, Things is designed to help you manage and achieve your goals, allowing you to organise all your tasks in one place.
 
-A beautifully designed suite of applications that won an Apple Design Award in 2017, Things makes tracking tasks enjoyable with its delightful interactions. Even if you’re not bought in to Apple’s operating systems, Things is still worth exploring for its carefully considered user experience design.
+A beautifully designed suite of applications that won an Apple Design Award in 2017, Things makes tracking tasks enjoyable with its delightful interactions. Even if you’re not bought in to Apple’s operating systems, Things is still worth exploring for its elegant user experience design.
 
 
-The Myth of Multi-Tasking
+The Myth of Multitasking
 -------------------------
 
-Mapping out your multiple tasks is, of course, only half of the equation; the other half of the equation is actually doing them, which is where a strategy of focused single-tasking comes in.
+Mapping out your multiple tasks is, of course, only half of the equation; the other half of the equation is actually completing them, which is where a strategy of focused singletasking comes in.
 
-Doubtless everyone’s heard of multi-tasking, the magical ability to undertake multiple tasks in tandem. The trouble is, multi-tasking is a myth. (Or, more accurately, it’s possible, it’s just not productive.) A better approach is to focus on single tasks, sequentially.
+Doubtless everyone’s heard of multitasking, the magical ability to undertake multiple tasks in tandem. The trouble is, multitasking is a myth. (Or, more accurately, it’s possible, it’s just not productive.) A better approach is to focus on single tasks, sequentially.
 
-Neuroscience suggests that multi-tasking is not only more stressful than undertaking tasks individually, it’s also less productive and technically not even possible. What we think of as multi-tasking is, in fact, just the brain switching rapidly between tasks and doing so inefficiently.
+Neuroscience has established that multitasking is not only more stressful than undertaking tasks individually, it’s also less productive and technically not even possible. As Cynthia Kubu and Andre Machado, two noted neuroscientists, explain in ‘Why Multitasking Is Bad for You’ (http://bit.ly/multitaskingisbad):
 
-Adam Gazzaley, a neuroscientist at University of California, San Francisco, summarises the pitfalls of multi-tasking in a series of academic papers on the subject, and in an excellent book, ‘The Distracted Mind’ (http://bit.ly/thedistractedmind).
+> One study found that just 2.5% of people are able to multitask effectively [and] repeatedly switching back and forth from project to project, like a hummingbird darting from flower to flower, can impair our ability to function at our finest.
 
-/* Switch out from here. */
+Kubu and Machado note that, “isolating out of the multitasking world,” brings many benefits, stressing that we, “unequivocally perform best, one thing at a time.”
 
-Gazzaley notes that distractions, often technology-related, act as ‘interference’, inhibiting our ability to get the task at hand done.
+What we think of as multitasking is, in fact, just the brain switching rapidly between tasks and doing so inefficiently. A far better approach is to sidestep multitasking and work your way through your task list a single task at a time.
 
-A far better approach is to sidestep multi-tasking and work your way through your task list a single task at a time.
-
-/* Above needs fixed re. http://bit.ly/memoryandmultitasking */
-
-Everyone has their own preferred task management method, and your approach, like mine, might bridge the analogue and digital divide. The important thing is to have a system. Establish a method that maps everything – be it analogue or digital – and you’ll find your productivity soar.
-
-<!--
-
-The key to productivity lies in establishing a system that ensure you remain focused and on point.
-
--->
+Put together the two halves of the equation – a task management system, be it analogue, digital (or both); and a singletasking mindset – and you’ll have a recipe for productivity success.
 
 
 <img src="things.png" width="650">
