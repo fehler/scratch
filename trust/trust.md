@@ -10,11 +10,17 @@ Strap: Christopher Murphy explores the importance of trust, one of every busines
 
 <!-- 530 Words in last article. ~265 X 2 -->
 
+/*
+
+Content here is in progress…
+
 Kick off with some context about the importance of trust as a commodity in business. Maybe a quote by Drucker?
 
 Stress the benefits of an open, honest and transparent culture, which pays off is in the long term.
 
 End this section on Facebook…? (It contextualises the image.)
+
+*/
 
 Facebook’s launch of Portal – and the subsequent backlash the product received on social media – is evidence of how a breach of trust can erode brand loyalty in a manner that can rapidly spiral out of control. Why? Because the business abused the trust of its customers.
 
