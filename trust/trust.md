@@ -3,7 +3,7 @@ Tasks
 
 <!-- Word Count: 470-520 Words (Image.) -->
 
-Strap: Christopher Murphy explores questions of trust, one of business’s most valuable commodities.
+Strap: Christopher Murphy explores the importance of trust, one of every business’s most valuable commodities.
 
 
 ----
@@ -12,11 +12,15 @@ Strap: Christopher Murphy explores questions of trust, one of business’s most 
 
 Kick off with some context about the importance of trust as a commodity in business. Maybe a quote by Drucker?
 
-Benefits if an open, honest and transparent culture. Pay off is in the long term.
+Stress the benefits of an open, honest and transparent culture, which pays off is in the long term.
 
-End this section on Facebook…? (Contextualises image.)
+End this section on Facebook…? (It contextualises the image.)
 
-Facebook’s launch of Portal – and the subsequent backlash the product received on social media – is evidence of how a breach of trust can erode brand loyalty in a manner that can rapidly spiral out of control. The business’s handling of the Cambridge Analytica scandal – particularly the initial silence of its CEO, Mark Zuckerberg – eroded trust in the brand.
+Facebook’s launch of Portal – and the subsequent backlash the product received on social media – is evidence of how a breach of trust can erode brand loyalty in a manner that can rapidly spiral out of control. Why? Because the business abused the trust of its customers.
+
+Facebook’s handling of the Cambridge Analytica scandal – particularly the reticence of Mark Zuckerberg, Facebook’s CEO to step up and accept some responsibility – eroded trust in the brand.
+
+This, compounded with earlier reports that Zuckerberg had branded Facebook’s customers, “dumb f_cks,” for trusting the business with their data (http://bit.ly/fbdumbfucks), added up to a culture of disregard and – as these things have a habit of doing – came back to haunt the business. Facebook, of course, is not alone….
 
 
 Google Minus
@@ -34,7 +38,9 @@ That Sundar Pichai, Google’s CEO, was aware of this and chose to keep the brea
 
 The damage that this breach of trust does to Google’s brand is measured not in days, weeks or months, but in years. There are, of course, lessons to be learned here and you don’t need to be a company the size of Google to learn them.
 
-Trust – perhaps above everything – else is your most important commodity. Cultivating an open and honest business culture will pay off in the long run. When things go wrong, as they occasionally do, own up and take responsibility. Your customers will appreciate your honesty and you’ll protect that all-important bond of trust.
+Trust is your most important commodity.
+
+Cultivating an open and honest business culture will pay dividends in the long run. When things go wrong, as they occasionally do, own up and take responsibility. Your customers will appreciate your honesty and you’ll protect that all-important bond of trust that, deep down, drives your business.
 
 
 <img src="facebook-portal.png" width="650">
