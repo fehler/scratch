@@ -37,7 +37,7 @@ The damage that this breach of trust does to Google’s brand is measured not in
 Trust – perhaps above everything – else is your most important commodity. Cultivating an open and honest business culture will pay off in the long run. When things go wrong, as they occasionally do, own up and take responsibility. Your customers will appreciate your honesty and you’ll protect that all-important bond of trust.
 
 
-<img src=”facebook-portal.png” width=”650”>
+<img src="facebook-portal.png" width="650">
 
 Caption: With Facebook’s tarnished trustworthiness, it’s no surprise that Portal launched to widespread backlash.
 
