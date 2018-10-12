@@ -1,6 +1,8 @@
 Tasks
 =====
 
+/* @netmag, monthly column. In progress. */
+
 <!-- Word Count: 470-520 Words (Image.) -->
 
 Strap: Christopher Murphy explores the importance of trust, one of every business’s most valuable commodities.
