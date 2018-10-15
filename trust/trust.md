@@ -1,7 +1,5 @@
-Tasks
+Trust
 =====
-
-/* @netmag, monthly column. In progress. */
 
 <!-- Word Count: 470-520 Words (Image.) -->
 
@@ -12,23 +10,17 @@ Strap: Christopher Murphy explores the importance of trust, one of every busines
 
 <!-- 530 Words in last article. ~265 X 2 -->
 
-/*
+Whatever you’re selling – be it a product or service – there’s one commodity in business that changes hands, whether money is involved or not: trust.
 
-Content here is in progress…
+Whether you’re working on a client project that involves confidential information or gathering your customer’s intimate personal details within a SaaS product, it’s important that you keep the bond of trust between business and customer sacred.
 
-Kick off with some context about the importance of trust as a commodity in business. Maybe a quote by Drucker?
-
-Stress the benefits of an open, honest and transparent culture, which pays off is in the long term.
-
-End this section on Facebook…? (It contextualises the image.)
-
-*/
+Over the last year, we’ve witnessed a number of high profile cases where the bond of trust between business and customer has been handled without the respect it deserves.
 
 Facebook’s launch of Portal – and the subsequent backlash the product received on social media – is evidence of how a breach of trust can erode brand loyalty in a manner that can rapidly spiral out of control. Why? Because the business abused the trust of its customers.
 
-Facebook’s handling of the Cambridge Analytica scandal – particularly the reticence of Mark Zuckerberg, Facebook’s CEO to step up and accept some responsibility – eroded trust in the brand.
+Facebook’s handling of the Cambridge Analytica scandal – particularly the reticence of Mark Zuckerberg, Facebook’s CEO, to step up and accept some responsibility – significantly eroded trust in the brand.
 
-This, compounded with earlier reports that Zuckerberg had branded Facebook’s customers, “dumb f_cks,” for trusting the business with their data (http://bit.ly/fbdumbfucks), added up to a culture of disregard and – as these things have a habit of doing – came back to haunt the business. Facebook, of course, is not alone….
+This, compounded with earlier reports that Zuckerberg had branded Facebook’s customers, “dumb f_cks,” for trusting the business with their data (http://bit.ly/fbdumbfucks), added up to a culture of disregard and – as these things have a habit of doing – came back to haunt the business. Facebook, of course, is not alone.
 
 
 Google Minus
