@@ -179,7 +179,7 @@ The final half-day workshop focuses on the importance of marketing, with **an em
 
 In my experience, marketing is often perceived by craftspeople as something that takes up valuable time and that is a distraction. Of course, **making is critical, but so is marketing**. After all, **if no one knows what you do, how can you hope to sell it?**
 
-By looking at how a number of successful craftspeople share their stories – via channels like **Instagram, Twitter and other social channels** – and measuring the impact of these marketing stories, we'll hammer home that marketing is an essential part of every successful business's mix.
+By looking at how a number of successful craftspeople share their stories – via channels like **Instagram, Twitter and other social channels** – and measuring the impact of these marketing stories, we'll hammer home that marketing is an essential part of every successful business's mix, especially when **considering the opportunities that export markets offer**.
 
 
 ### Case Study: TBC
@@ -205,22 +205,76 @@ The Orbit tender document stresses Craft NI's desire to **continue to strengthen
 + provide expertise, guidance and support … to **stimulate innovation in business and creative practice**; and
 + equip designer-makers at various stages of their careers and from different craft disciplines with **new and refreshed business skills**.
 
-The above aims all focus on **the intersection of where craft meets business**. They also **require an understanding that craft businesses are, by their nature, different to many other businesses**. As a designer, married to a successful crafstperson (Cara Murphy), **I am immersed and well-versed in the world where craft meets business**.
+The above aims all focus on **the intersection of where craft meets business**. They also **require an understanding that craft businesses are, by their nature, different to many other businesses**.
 
-**I understand that craft businesses need business support, but they need that support to be delivered in way that is sensitive to how craft businesses differ from those in other sectors.**
+As a designer and educator, married to a successful crafstperson (Cara Murphy), I am immersed and well-versed in the world where craft meets business. **I also understand that while craft businesses need business support, they need that support to be delivered in way that is sensitive to how craft businesses differ from those in other sectors.**
 
 As outlined in the section 'Why me?' below, I've delivered a number of similar, business-focused programmes, both in Northern Ireland and further afield. Over 15+ years teaching at Belfast School of Art, I've focused on helping young (and not so young!) craftspeople and designers to **understand the intersection of creativity and business**.
 
 **I'm passionate about helping others to navigate the world of business that can often feel like a minefield.** I've had many successes and many 'failures' during my own journey and I freely share the lessons I've learned – good and bad – in my learning materials.
 
+I take great pride in the learning materials I develop, indeed **I place a heavy emphasis on crafting those materials so that they are world class**. (I don't use the word 'crafting' lightly in the preceding sentence.) The learning materials I develop are:
+
++ up-to-date;
++ focus on industry-specific research, both within and without craft;
++ tailored – very carefully – to meet the needs of everyone (in what can often be diverse groups);
++ focused on real-world lessons for real-world results; and
++ informed by a deep understanding of craft across it's various disciplines.
+
+**Although I am a designer and educator first and foremost, that doesn't mean I don't have a deep awareness of craft.** I regularly attended Collect in London, the only gallery-presented art fair dedicated to modern craft. I also have a library of craft-focused books, which inform my understanding.
+
+**Put simply: I understand craft.** 
+
 It's no exageration to say that **I've helped thousands of individuals to deepen their understanding of business, improving their chances of success**, and I would welcome the opportunity to deliver the Orbit programme.
 
+
+
+Orbit Programme Deliverables
+----------------------------
+
+As outlined above, **I envisage the Orbit materials consisting of a range of downloadable learning materials to accompany each of the five half-day workshops**. These would include:
+
++ Slidedecks with Annotations
++ Worksheets
++ Case Studies
+
+You can see [an example of one of my slidedecks with annotations](https://noti.st/mrmurphy/gx3Ykd/slides) at my speaking resources website, Notist. This example was for a half-day workshop delivered for Ignite, an Invest NI funded programme and gives an idea of my learning materials.
 
 
 Budget
 ------
 
+The Orbit tender states that: **"No fee will be paid for producing the initial proposal."**
 
+Whilst I appreciate that, I hope it's clear from this proposal that I have invested a considerable amount of time developing the proposal and the workshop curriculum. **I have costed my time for producing the initial proposal** – after all, this is a business programme and Craft NI would not expect craftspeople to work for free – **but I am discounting my time for this to zero.**
+
+It's unclear from the tender document what the overall indicative budget for developing and delivering the Orbit programme is. As a consequence, it's difficult to understand the scope required for the learning materials. The tender specifies:
+
+> A set of seminar notes for each module outlining content and any specific tools and techniques, follow ups, contacts or links discussed in the module which will be made available to attending makers. These notes, as well as presentation slides and other support materials must carry Craft NI branding along with that of the supplier.
+
+The above can be interpreted a number of different ways, which would have a dramatic impact on the fee. I would welcome the opportunity to discuss this proposal before a decision is reached to ensure that what I am offering and what Craft NI expects is the same.
+
++ **Initial Preparation of Tender Document and Curriculum** (This Proposal Document)
+  + 1.0 Days: £600 _(Discounted to £0)_
++ **Preparation of 5 × Half-Day Workshops**
+  + 2.5 Days: £1,500
++ **Preparation of 5 × Sets of Workshop Supporting Materials**
+  + 2.5 Days: £1,500
++ **Delivery of 5 × Half-Day Workshops**
+  + 2.5 Days: £1,500
++ **Regular Meetings with Craft NI**
+  + 1.0 Days: £600
++ **Post-Project Report**
+  + 0.5 Days: £300
+
++ **SUB-TOTAL**
+  + £6,000
+  + Discount: £600 (This Proposal Document)
+
++ **TOTAL**
+  + £5,400
+
+As I've noted above, with no indication of budget, it's hard to know if this figure is appropriate. Put simply: I'd welcome the opportunity to discuss this proposal further.
 
 
 Why me?
