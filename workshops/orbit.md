@@ -268,8 +268,7 @@ The above can be interpreted a number of different ways, which would have a dram
   + 0.5 Days: £300
 
 + **SUB-TOTAL**
-  + £6,000
-  + Discount: £600 (This Proposal Document)
+  + £6,000 - £600 Discount (This Proposal Document)
 
 + **TOTAL**
   + £5,400
